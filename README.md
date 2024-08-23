@@ -16,7 +16,7 @@ TypeScript and JavaScript libraries for web development
 📫 How to Reach Me
 Email: milindpethkar011@gmail.com
 LinkedIn: www.linkedin.com/in/milindpethkar
-Twitter:(https://milindpethkar-simple.vercel.app/)
+Twitter:(https:vercel.com/captainamerica700s-projects/dimple-app)
 😄 Pronouns
 He/Him
 
